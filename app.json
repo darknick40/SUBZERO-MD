@@ -1,9 +1,9 @@
 
 {
-  "name": "SUBZERO-MD",
-  "description": "NodeJs Whatsapp bot By Mr Frank",
-  "logo": "https://mrfrankk-cdn.hf.space/mrfrank/subzero.png",
-  "keywords": ["SUBZERO-MD"],
+  "name": "DARK-NICK",
+  "description": "NodeJs Whatsapp bot By DARK NICK",
+  "logo": "",
+  "keywords": ["NICK"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
