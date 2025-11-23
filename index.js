@@ -9,11 +9,11 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-@ Project Name : SubZero MD
-* Creator      : Darrell Mucheri ( Mr Frank OFC )
-* My Git       : https//github.com/mrfr8nk
-* Contact      : wa.me/263719647303
-* Channel      : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+@ Project Name : DARK NICK 
+* Creator      : DARK GANG USER ( Mr DARK NICK)
+* My Git       : 
+* Contact      : wa.me/918145321510
+* Group      : https://chat.whatsapp.com/GhBqFpb0gMs66JkQNqDagr?mode=hqrt3
 * Release Date : 15 Dececmber 2024 12.01 AM
 */
 
